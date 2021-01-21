@@ -4,4 +4,142 @@ Munbyn:
   vendor: Munbyn
   inherits: TM-P80
   notes: Munbyn POS Printer
+
+  codePages:
+    # PC4371 (Std.Europe)
+    0: Unknown
+    # Katakana
+    1: Unknown
+    # PC850 (Multilingual)
+    2: CP850
+    # PC860 (Portugal)
+    3: CP860
+    # PC863 (Canadian)
+    4: CP863
+    # PC865 (Nordic)
+    5: CP865
+    # West Europe
+    6: Unknown
+    # Greek
+    7: Unknown
+    # Hebrew
+    8: Unknown
+    # Greek
+    9: Unknown
+    # Iran
+    10: Unknown
+    # WPC1252
+    11: CP1252
+    # PC866 (Cyrillic#2)
+    12: CP866
+    # PC852 (Latin2)
+    13: CP852
+    # PC858
+    14: CP858
+    # IranII
+    15: Unknown
+    # Latvian
+    16: Unknown
+    # Arabic
+    17: Unknown
+    # PT1511251
+    18: Unknown
+    # PC747
+    19: CP747
+    # WCP1257
+    20: CP1257
+    # Thai
+    21: Unknown
+    # Vietnam
+    22: Unknown
+    # PC864
+    23: CP864
+    # PC1001
+    24: CP1001
+    # Uigur
+    25: CP864
+    # Hebrew
+    26: Unknown
+    # WPC1255 (Israel)
+    27: CP1255
+    # PC437 (Std.Europe)
+    28: CP437
+    # Katakana
+    29: Unknown
+    # PC437 (Std.Europe)
+    30: CP437
+    # PC858 (Mult)
+    31: CP858
+    # PC852 (Latin-2)
+    32: CP852
+    # PC860 (Portugu)
+    33: CP860
+    # PC861 (Icelandic)
+    34: CP861
+    # PC863 (Canadian)
+    35: CP863
+    # PC865 (Nordic)
+    36: CP865
+    # PC866 (Russian)
+    37: CP866
+    # PC855 (Bulgarian)
+    38: CP855
+    # PC857 (Turkey)
+    39: CP857
+    # PC862 (Hebrew)
+    40: CP862
+    # PC864 (Arabic)
+    41: CP864
+    # PC737 (Greek)
+    42: CP737
+    # PC851 (Greek)
+    43: CP851
+    # PC869 (Greek)
+    44: CP869
+    # PC928 (Greek)
+    45: CP928
+    # PC772 (Lithuanian)
+    46: CP772
+    # CP774 (Lithuan)
+    47: CP774
+    # PC874 (Thai)
+    48: CP874
+    # WPC1252
+    49: CP1252
+    # WPC1250 (Latin-2)
+    50: CP1250
+    # WPC1251 (Cyril)
+    51: CP1251
+    # PC3840 (IBM-Russian)
+    52: CP3840
+    # PC3841 (Gost)
+    53: CP3841
+    # PC3843 (Polish)
+    54: CP3843
+    # PC3844 (CS2)
+    55: CP3844
+    # PC3845 (Hungarian)
+    56: CP3845
+    # PC3846 (Turkish)
+    57: CP3846
+    # PC3847 (Brazil-ABNT)
+    58: CP3847
+    # PC3848 (Brazil)
+    59: CP3848
+    # PC1001 (Arabic)
+    60: CP1001
+    # PC2001 (Lithuan)
+    61: CP2001
+    # PC3001 (Estonian-1)
+    62: CP3001
+    # PC3002 (Eston-2)
+    63: CP3002
+    # PC3011 (Latvian-1)
+    64: CP3011
+    # PC3012 (Latv-2)
+    65: CP3012
+    # PC3021 (Bulgarian)
+    66: CP3021
+    # PC3041 (Maltese)
+    67: CP3041
 ...
