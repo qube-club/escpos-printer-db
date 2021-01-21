@@ -1,0 +1,7 @@
+---
+Munbyn:
+  name: Munbyn
+  vendor: Munbyn
+  inherits: TM-P80
+  notes: Munbyn POS Printer
+...
